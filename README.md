@@ -1,0 +1,4 @@
+muttconf
+========
+
+My mutt configuration
